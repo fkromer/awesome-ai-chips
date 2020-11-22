@@ -1,5 +1,10 @@
 # awesome-ai-chips
 
+## AI Accelerators
+
+- [Google Coral Accelerator Module](https://coral.ai/products/accelerator-module) - A solderable multi-chip module including the Edge TPU.
+- [MediaTek AI Processing Unit (APU)](https://www.mediatek.com/innovations/artificial-intelligence) - Specifically designed for smartphones and mobile devices, providing highly energy-efficient AI operation processing. 
+
 ## Smart sensors
 
 - [Bosch Sensortec BHI260AP](https://www.bosch-sensortec.com/products/smart-sensors/bhi260ap/) - Self-learning AI smart sensor with integrated IMU.
