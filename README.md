@@ -3,6 +3,7 @@
 ## AI Accelerators
 
 - [Google Coral Accelerator Module](https://coral.ai/products/accelerator-module) - A solderable multi-chip module including the Edge TPU.
+- [Groq Tensor Streaming Processor](https://groq.com/technology/)
 - [MediaTek AI Processing Unit (APU)](https://www.mediatek.com/innovations/artificial-intelligence) - Specifically designed for smartphones and mobile devices, providing highly energy-efficient AI operation processing. 
 
 ## Cloud-only chips
