@@ -22,7 +22,9 @@
 
 ## System on modules
 
-- [Nvidia Tegra K1](https://developer.nvidia.com/embedded/buy/tegra-k1-processor)
+- [ARM Ethos N series (](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-n) - N57, N77, N78.
+- [NXP S32V2](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/s32v2-vision-mpus-/s32v2-processors-for-vision-machine-learning-and-sensor-fusion:S32V234?&lang_cd=en) - ISP, GPU, APEX-2 vision accelerators.
+- [Nvidia Tegra K1](https://developer.nvidia.com/embedded/buy/tegra-k1-processor) - GPU.
 
 ## Papers
 
@@ -36,3 +38,10 @@
 
 - [Arccos Caddie Smart Sensors](https://eu.arccosgolf.com/products/arccos-caddie-smart-sensors)
 - [Roboception rc_visard](https://roboception.com/en/rc_visard-en/) - Nvidia Tegra K1
+
+## Legend
+
+- DSP: Digital Signal Processor
+- ISP: Image Signal Processor
+- GPU: Graphical Processor Unit
+- NPU: Neural Processing Unit
