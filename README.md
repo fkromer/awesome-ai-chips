@@ -15,6 +15,11 @@
 
 - [Bragi](https://bragi.com/) - Consulting with focus on audio based UI.
 
+## IPs
+
+- [ARM Ethos N series](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-n) - NPU, CNN, RNN, Arm NN, TensorFlow, TensorFlow Lite, Caffe2, PyTorch, MXNet, ONNX.
+- [ARM Ethos U series](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-u) - NPU, CNN, RNN, CMSIS-NN, TensorFlow Lite Micro, RTOS, Linux.
+
 ## Smart sensors (system on modules - SOMs, system in packages - SIPs)
 
 - [Bosch Sensortec BHI260AP](https://www.bosch-sensortec.com/products/smart-sensors/bhi260ap/) - Self-learning AI smart sensor with integrated IMU.
@@ -22,7 +27,6 @@
 
 ## System on modules
 
-- [ARM Ethos N series (](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-n) - N57, N77, N78.
 - [NXP S32V2](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/s32v2-vision-mpus-/s32v2-processors-for-vision-machine-learning-and-sensor-fusion:S32V234?&lang_cd=en) - ISP, GPU, APEX-2 vision accelerators.
 - [Nvidia Tegra K1](https://developer.nvidia.com/embedded/buy/tegra-k1-processor) - GPU.
 
@@ -41,7 +45,9 @@
 
 ## Legend
 
+- CNN: Convolutional Neural Network
 - DSP: Digital Signal Processor
 - ISP: Image Signal Processor
 - GPU: Graphical Processor Unit
 - NPU: Neural Processing Unit
+- RNN: Recurrent neural network (e.g. long short-term memory/LSTM)
