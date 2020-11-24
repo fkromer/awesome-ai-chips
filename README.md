@@ -11,6 +11,10 @@
 
 - [AWS Inferentia](https://aws.amazon.com/machine-learning/inferentia/) - High performance machine learning inference chip, custom designed by AWS.
 
+## Consulting
+
+- [Bragi](https://bragi.com/) - Consulting with focus on audio based UI.
+
 ## Smart sensors (system on modules - SOMs, system in packages - SIPs)
 
 - [Bosch Sensortec BHI260AP](https://www.bosch-sensortec.com/products/smart-sensors/bhi260ap/) - Self-learning AI smart sensor with integrated IMU.
