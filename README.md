@@ -19,6 +19,7 @@
 
 - [ARM Ethos N series](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-n) - NPU, CNN, RNN, Arm NN, TensorFlow, TensorFlow Lite, Caffe2, PyTorch, MXNet, ONNX.
 - [ARM Ethos U series](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-u) - NPU, CNN, RNN, CMSIS-NN, TensorFlow Lite Micro, RTOS, Linux.
+- [brainchip AKIDA Neural Processor IP](https://brainchipinc.com/akida-neural-processor-ip/) - NPM.
 
 ## Misc
 
@@ -31,6 +32,7 @@
 
 ## System on modules
 
+- [brainchip NSoC](https://brainchipinc.com/akida-neuromorphic-system-on-chip/) - DSP, FPU, NPM.
 - [NXP S32V2](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/s32v2-vision-mpus-/s32v2-processors-for-vision-machine-learning-and-sensor-fusion:S32V234?&lang_cd=en) - ISP, GPU, APEX-2 vision accelerators.
 - [Nvidia Tegra K1](https://developer.nvidia.com/embedded/buy/tegra-k1-processor) - GPU.
 
@@ -51,7 +53,9 @@
 
 - CNN: Convolutional Neural Network
 - DSP: Digital Signal Processor
+- FPU: Floating Point Unit
 - ISP: Image Signal Processor
 - GPU: Graphical Processor Unit
+- NPM: Neural Processors Mesh
 - NPU: Neural Processing Unit
 - RNN: Recurrent neural network (e.g. long short-term memory/LSTM)
