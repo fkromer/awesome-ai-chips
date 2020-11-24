@@ -20,6 +20,10 @@
 - [ARM Ethos N series](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-n) - NPU, CNN, RNN, Arm NN, TensorFlow, TensorFlow Lite, Caffe2, PyTorch, MXNet, ONNX.
 - [ARM Ethos U series](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-u) - NPU, CNN, RNN, CMSIS-NN, TensorFlow Lite Micro, RTOS, Linux.
 
+## Misc
+
+- [NVIDIA Deep Learning Accelerator (NVDLA)](http://nvdla.org/) - Free and open architecture that promotes a standard way to design deep learning inference accelerators.
+
 ## Smart sensors (system on modules - SOMs, system in packages - SIPs)
 
 - [Bosch Sensortec BHI260AP](https://www.bosch-sensortec.com/products/smart-sensors/bhi260ap/) - Self-learning AI smart sensor with integrated IMU.
