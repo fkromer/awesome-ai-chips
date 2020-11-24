@@ -34,6 +34,7 @@
 
 - [Cartesiam NanoEdge™ AI Studio](https://cartesiam.ai/product/) - ARM Cortex M.
 - [Edge Impulse](https://www.edgeimpulse.com/solutions) - TensorFlow Lite Micro.
+- [STM X-CUBE-AI](https://www.st.com/en/embedded-software/x-cube-ai.html) - STM32 ARM Cortex.
 
 ## System on modules
 
