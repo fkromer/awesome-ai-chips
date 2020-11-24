@@ -52,6 +52,7 @@
 ## Products
 
 - [Arccos Caddie Smart Sensors](https://eu.arccosgolf.com/products/arccos-caddie-smart-sensors)
+- [Siemens SIMATIC S7-1500 TM NPU](https://new.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500/simatic-s7-1500-tm-npu.html)
 - [Roboception rc_visard](https://roboception.com/en/rc_visard-en/) - Nvidia Tegra K1
 
 ## Legend
