@@ -30,6 +30,11 @@
 - [Bosch Sensortec BHI260AP](https://www.bosch-sensortec.com/products/smart-sensors/bhi260ap/) - Self-learning AI smart sensor with integrated IMU.
 - [STMicroelectronics LSM6DSOX](https://www.st.com/en/mems-and-sensors/lsm6dsox.html) - iNEMO inertial module with Machine Learning Core, Finite State Machine and advanced Digital Functions.
 
+## Software
+
+- [Cartesiam NanoEdge™ AI Studio](https://cartesiam.ai/product/) - ARM Cortex M.
+- [Edge Impulse](https://www.edgeimpulse.com/solutions) - TensorFlow Lite Micro.
+
 ## System on modules
 
 - [brainchip NSoC](https://brainchipinc.com/akida-neuromorphic-system-on-chip/) - DSP, FPU, NPM.
