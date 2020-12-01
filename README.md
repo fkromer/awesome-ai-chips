@@ -47,6 +47,12 @@
 - [brainchip NSoC](https://brainchipinc.com/akida-neuromorphic-system-on-chip/) - DSP, FPU, NPM.
 - [NXP S32V2](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/s32v2-vision-mpus-/s32v2-processors-for-vision-machine-learning-and-sensor-fusion:S32V234?&lang_cd=en) - ISP, GPU, APEX-2 vision accelerators.
 - [Nvidia Tegra K1](https://developer.nvidia.com/embedded/buy/tegra-k1-processor) - GPU.
+- [Nvidia Jetson TX1](https://developer.nvidia.com/embedded/jetson-tx1) - GPU.
+- [Nvidia Jetson TX2](https://developer.nvidia.com/embedded/jetson-tx2) - GPU.
+- [Nvidia Jetson TX2 4GB](https://developer.nvidia.com/embedded/jetson-tx2-4gb) - GPU.
+- [Nvidia Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano) - GPU.
+- [Nvidia Xavier NX](https://developer.nvidia.com/embedded/jetson-xavier-nx) - GPU, 2 DL accelerators, Vision accelerator.
+- [Nvidia AGX Xavier](https://developer.nvidia.com/embedded/jetson-agx-xavier) - GPU, 2 DL accelerators, Vision accelerator.
 
 ## Papers
 
