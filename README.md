@@ -21,6 +21,11 @@
 - [ARM Ethos U series](https://developer.arm.com/ip-products/processors/machine-learning/arm-ethos-u) - NPU, CNN, RNN, CMSIS-NN, TensorFlow Lite Micro, RTOS, Linux.
 - [brainchip AKIDA Neural Processor IP](https://brainchipinc.com/akida-neural-processor-ip/) - NPM.
 
+## IPUs
+
+- [Graphcore Colossus MK2 GC200 IPU](https://www.graphcore.ai/products/ipu)
+- [Graphcore Colossus MK1 IPU](https://www.graphcore.ai/products/ipu)
+
 ## Misc
 
 - [NVIDIA Deep Learning Accelerator (NVDLA)](http://nvdla.org/) - Free and open architecture that promotes a standard way to design deep learning inference accelerators.
@@ -35,6 +40,7 @@
 - [Cartesiam NanoEdge™ AI Studio](https://cartesiam.ai/product/) - ARM Cortex M.
 - [Edge Impulse](https://www.edgeimpulse.com/solutions) - TensorFlow Lite Micro.
 - [STM X-CUBE-AI](https://www.st.com/en/embedded-software/x-cube-ai.html) - STM32 ARM Cortex.
+- [Graphcore Poplar SDK](https://www.graphcore.ai/products/poplar) - Graphcore Colossus IPUs.
 
 ## System on modules
 
@@ -61,6 +67,7 @@
 - CNN: Convolutional Neural Network
 - DSP: Digital Signal Processor
 - FPU: Floating Point Unit
+- IPU: Intelligence Processing Unit
 - ISP: Image Signal Processor
 - GPU: Graphical Processor Unit
 - NPM: Neural Processors Mesh
