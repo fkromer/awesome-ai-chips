@@ -32,6 +32,7 @@
 
 ## Smart sensors (system on modules - SOMs, system in packages - SIPs)
 
+- [Bosch Sensortec BME688](https://www.bosch-sensortec.com/products/environmental-sensors/gas-sensors-bme688/) - First gas sensor with Artificial Intelligence (AI) and integrated high-linearity and high-accuracy pressure, humidity and temperature sensors.
 - [Bosch Sensortec BHI260AP](https://www.bosch-sensortec.com/products/smart-sensors/bhi260ap/) - Self-learning AI smart sensor with integrated IMU.
 - [STMicroelectronics LSM6DSOX](https://www.st.com/en/mems-and-sensors/lsm6dsox.html) - iNEMO inertial module with Machine Learning Core, Finite State Machine and advanced Digital Functions.
 
